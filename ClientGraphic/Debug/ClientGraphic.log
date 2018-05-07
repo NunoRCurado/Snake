@@ -1,0 +1,9 @@
+﻿  clientGraphic.c
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(215): warning C4101: 'ps': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(452): warning C4101: 'i': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(546): warning C4101: 'i': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(704): warning C4101: 'y': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(704): warning C4101: 'x': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\clientgraphic\clientgraphic.c(783): warning C4552: '*': operator has no effect; expected operator with side-effect
+  ClientGraphic.vcxproj -> C:\Users\Nuno\Desktop\SO2\Snake\Debug\ClientGraphic.exe
+  ClientGraphic.vcxproj -> C:\Users\Nuno\Desktop\SO2\Snake\Debug\ClientGraphic.pdb (Full PDB)

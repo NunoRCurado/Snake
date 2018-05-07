@@ -1,0 +1,79 @@
+﻿  server.c
+c:\users\nuno\desktop\so2\snake\snake\server.c(206): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(207): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(208): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(220): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\nuno\desktop\so2\snake\snake\server.c(233): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(309): warning C4474: 'wprintf' : too many arguments passed for format string
+  c:\users\nuno\desktop\so2\snake\snake\server.c(309): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nuno\desktop\so2\snake\snake\server.c(419): warning C4013: 'verificaPosicaoCabecaTronco' undefined; assuming extern returning int
+c:\users\nuno\desktop\so2\snake\snake\server.c(405): warning C4101: 'direccaoNova': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\snake\server.c(572): warning C4101: 'direccaoProibida': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\snake\server.c(574): warning C4101: 'xBody': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\snake\server.c(577): warning C4101: 'direccaoNova': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\snake\server.c(574): warning C4101: 'yBody': unreferenced local variable
+c:\users\nuno\desktop\so2\snake\snake\server.c(822): warning C4098: 'abreMapView': 'void' function returning a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(829): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(868): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(912): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(928): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(946): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(956): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(973): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(983): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1010): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1026): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1077): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1094): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1105): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1120): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1133): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\nuno\desktop\so2\snake\snake\server.c(1218): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1226): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1248): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1256): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1277): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1285): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1323): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1331): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1385): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1412): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1413): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1414): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1415): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1416): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1417): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1418): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1423): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1424): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1425): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1438): warning C4018: '<': signed/unsigned mismatch
+c:\users\nuno\desktop\so2\snake\snake\server.c(1464): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1465): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1466): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1467): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1468): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1469): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1470): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1475): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1476): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1477): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1492): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1492): warning C4024: 'RegOpenKeyExW': different types for formal and actual parameter 3
+c:\users\nuno\desktop\so2\snake\snake\server.c(1497): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1497): warning C4024: 'RegCreateKeyExW': different types for formal and actual parameter 3
+c:\users\nuno\desktop\so2\snake\snake\server.c(1544): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nuno\desktop\so2\snake\snake\server.c(1544): warning C4024: 'RegSetValueExW': different types for formal and actual parameter 3
+c:\users\nuno\desktop\so2\snake\snake\server.c(1147): warning C4716: 'threadTimer': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1182): warning C4716: 'threadStart': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1195): warning C4716: 'threadRecebeCliente': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1235): warning C4716: 'threadDuracaoItemsOleo': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1264): warning C4716: 'threadDuracaoItemsoOleo': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1293): warning C4716: 'threadDuracaoItemsoCola': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1309): warning C4716: 'threadDuracaoItemsoVodka': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1339): warning C4716: 'threadDuracaoItemsCola': must return a value
+c:\users\nuno\desktop\so2\snake\snake\server.c(1355): warning C4716: 'threadDuracaoItemsVodka': must return a value
+  Snake.vcxproj -> C:\Users\Nuno\Desktop\SO2\Snake\Debug\Server.exe
+  Snake.vcxproj -> C:\Users\Nuno\Desktop\SO2\Snake\Debug\Server.pdb (Full PDB)
